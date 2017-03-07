@@ -1,5 +1,6 @@
 body {}
-#section1, #section2 #section3, #section4, #section5 { padding: 500px 0; background: #333; }
-#section2 { background: #ff0000; }
+
 span.mini { font-size: 10px; margin: 0; padding: 0; color: #c2c2c2; }
 .navbar-header a {margin: 0;padding: 0;line-height: 10px;padding-top: 10px;padding-right: 10px;}
+
+#home { padding: 500px 0; background: #353535; text-align: center; }
