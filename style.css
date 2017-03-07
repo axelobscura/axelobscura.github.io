@@ -1,2 +1,2 @@
 body {}
-#section1 { padding: 100px 0; background: #333; }
+#section1, #section2 #section3, #section4, #section5 { padding: 500px 0; background: #333; }
