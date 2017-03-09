@@ -20,7 +20,7 @@ span.mini { font-size: 10px; margin: 0; padding: 0; color: #c2c2c2; }
 .col-md-5.porta img { margin: 25px 0; border:2px solid #DF691A; }
 .col-md-7.porta h1 { color: #ffffff; font-size: 50px; text-align: center; }
 
-#summary { padding: 100px 0; background: #071822; text-align: center; }
+#summary { padding: 100px 120px; background: #071822; text-align: center; }
 #summary h1 { color: #ffffff; font-size: 70px; }
 #summary h2 { color: #353535; font-size: 14px; margin: 0; padding-top: 0px; padding-bottom: 15px; }
 
@@ -59,6 +59,14 @@ span.gris { color: #555555; }
   margin-left: auto;
   width: 100%;
 }
+
+#summary h3 { text-align: left; color:#DF691A;  }
+#summary .row.overview ul { text-align: left; }
+#summary .row.education p { text-align: center; font-size: 20px; color: #cccccc; }
+#summary .row.education p span.tit { color: #1c4661;  }
+
+
+.row.porter { margin-bottom: 20px; }
 @media (min-width: 768px) {
   .modal-fullscreen .modal-dialog {
     width: 750px;
